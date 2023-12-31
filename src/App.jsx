@@ -38,8 +38,8 @@ function App() {
   };
 
   return (
-    <div className="w-full max-w-lg mx-auto bg-teal-800 py-3">
-      <h2 className="text-center text-2xl font-medium text-white">
+    <div className="w-full max-w-lg lg:max-w-xl mx-auto bg-teal-800 py-3 mt-10">
+      <h2 className="text-center text-3xl font-medium text-white">
         Password Generator
       </h2>
       <div className="flex justify-around items-center">
